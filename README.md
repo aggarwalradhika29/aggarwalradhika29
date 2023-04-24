@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aggarwalradhika2905@gmail.com**.
 
-- 📄 Know about my experiences [[My Resume](https://drive.google.com/file/d/18x9FZ8lOJfAHQfGVfXKiFiIGE5-UUcGC/view?usp=sharing).
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18x9FZ8lOJfAHQfGVfXKiFiIGE5-UUcGC/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

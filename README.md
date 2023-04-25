@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Python and Java related Projects**.
 
-- 👨‍💻 All of my projects are available in [my repositories](https://github.com/aggarwalradhika29).
+- 👨‍💻 All of my projects are available in [my repositories](https://github.com/aggarwalradhika29?tab=repositories).
 
 - 📫 How to reach me **aggarwalradhika2905@gmail.com**.
 

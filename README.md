@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
 <h3 align="center">Python Developer | SDE Intern @ISRO</h3>
 
-- 🔭 I’m currently working on **Automation For Crop Mapping, Preprocessing of Multi-Temporal SAR Sentinel-1A, RISAT-1/EOS-4 Raw Data using SNAP, and Multi-Crop Classification and Area Estimation Using Machine Learning Algorithms**.
+- 🔭 I’m currently working on [**Automation For Crop Mapping, Preprocessing of Multi-Temporal SAR Sentinel-1A, RISAT-1/EOS-4 Raw Data using SNAP, and Multi-Crop Classification and Area Estimation Using Machine Learning Algorithms**](https://docs.google.com/document/d/1bkBZoHAngPk_RTugV1Vxal5-ri-lmGTx38y5lgATkd4/edit?usp=sharing).
+- 
 
 - 🌱 I’m currently learning **DSA, Java Frameworks**.
 

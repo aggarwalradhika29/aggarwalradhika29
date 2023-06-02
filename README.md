@@ -1,14 +1,14 @@
-- 🔭 I’m currently working on **Multi-Class Crop Classification on Multi-Temporal SAR Sentinel-1A, RISAT-1/EOS-4 Imagery Data for Area Spread and Estimation**
+- 🔭 Exploring spatal data analysis, and Python in remote sensing
 
-- 🌱 I’m currently learning **DSA, Java Frameworks**
+- 🌱 Learning **DSA, Java Frameworks**
 
 - 👯 I’m looking to collaborate on **Python and Java related Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aggarwalradhika29](https://github.com/aggarwalradhika29)
+- 👨‍💻 All of my projects are available in [my repositories](https://github.com/aggarwalradhika29?tab=repositories).
 
-- 📫 Reach me @ **aggarwalradhika2905@gmail.com**
+- 📫 Reach me @**aggarwalradhika2905@gmail.com**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D3HrBl4PvdMHfQjaflLvT-HCVHHpCfyL/view?usp=sharing](https://drive.google.com/file/d/1D3HrBl4PvdMHfQjaflLvT-HCVHHpCfyL/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18x9FZ8lOJfAHQfGVfXKiFiIGE5-UUcGC/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

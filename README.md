@@ -1,6 +1,6 @@
-- 🔭 Exploring spatal data analysis, and Python in remote sensing
+- 🔭 Exploring spatial data analysis, research and development
 
-- 🌱 Learning **DSA, Java Frameworks**
+- 🌱 Learning **AI, Web, Algorithms**
 
 - 👯 I’m looking to collaborate on **Python and Java related Projects**
 

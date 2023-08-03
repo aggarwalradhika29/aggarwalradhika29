@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available in [my repositories](https://github.com/aggarwalradhika29?tab=repositories).
 
-- 📫 Reach me @**aggarwalradhika2905@gmail.com**.
+- 📫 Reach me **aggarwalradhika2905@gmail.com**.
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1geuO9p8EXTbsPPB983NbAgHNkHL-ZZr6/view?usp=sharing).
 <h3 align="left">Connect with me:</h3>

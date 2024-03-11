@@ -1,4 +1,4 @@
-- 🔭 Exploring spatial data analysis, research and development
+- 🔭 Exploring data analytics, dashboarding, research and development
 
 - 🌱 Learning **AI, Web, Algorithms**
 

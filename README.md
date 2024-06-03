@@ -1,14 +1,14 @@
-- 🔭 Exploring data analytics, dashboarding, research and development
+- 🔭 Exploring data engineering, analytics, visualizations, research and development
 
-- 🌱 Learning **AI, Web, Algorithms**
+- 🌱 Learning **AI, E-commerce, Algorithms**
 
-- 👯 I’m looking to collaborate on **Python and Java related Projects**
+- 👯 I’m looking to collaborate on data analytics based projects
 
 - 👨‍💻 All of my projects are available in [my repositories](https://github.com/aggarwalradhika29?tab=repositories).
 
 - 📫 Reach me **aggarwalradhika2905@gmail.com**.
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hSmJdOPMdd7qilsioJMfauJrFknK687X/view?usp=sharing).
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-XQKMH-f_bNAurh-O4ZRJ2qMrWjxvm5h/view?usp=sharing).
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oyeradhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oyeradhika" height="30" width="40" /></a>

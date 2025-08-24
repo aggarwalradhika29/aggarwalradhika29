@@ -1,16 +1,11 @@
-- 🔭 Exploring data engineering, analytics, visualizations, research and development
-
-- 🌱 Learning **AI, E-commerce, Algorithms**
-
-- 👯 I’m looking to collaborate on data engineering & analytics based projects
-
-- ⚡ In my free time, I read books, articles, or research random things around me.
-
-- 👨‍💻 All of my projects are available in [my repositories](https://github.com/aggarwalradhika29?tab=repositories).
-
-- 📫 You can reach me @**aggarwalradhika2905@gmail.com**.
-
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1r5SZahMi9sVZTrQFZ5ovgIVz_fZYh5xR/view?usp=sharing).
+- 🔭 Exploring **Data Engineering, Generative AI, and Large Language Models (LLMs)**
+- 🌱 Currently learning **Agentic AI, E-commerce Tech, and System Design**
+- 👯 Open to collaborations on **data engineering, analytics, and AI-powered products**
+- ⚡ Outside of work, I enjoy reading, exploring new tech, and researching quirky ideas
+- 👨‍💻 Explore my projects here: [Repositories](https://github.com/aggarwalradhika29?tab=repositories)
+  
+- 📫 Reach me at: **aggarwalradhika2905@gmail.com**
+- 📄 Learn more about my work: [Resume](https://drive.google.com/file/d/1uaeR-B4lUV1FJFnsE9uTjmZw6D9v_5W8/view?usp=sharing)  
 <h3 align="left">Connect with me thorugh:</h3>
 <p align="left">
 <a href="https://twitter.com/oyeradhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oyeradhika" height="30" width="40" /></a>
